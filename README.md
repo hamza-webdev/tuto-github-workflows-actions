@@ -1,5 +1,4 @@
 # tuto-github-workflows-actions
-tuto-github-workflows-actions
 
 S'il s'agit du point d'entrée, j'analyserais alors les arguments de ligne de commande (à l'aide de commander) transmis depuis entrypoint.sh. Les arguments ont été injectés dans entrypoint.sh par GitHub à partir du fichier de workflow via le conteneur (plus à ce sujet plus tard).
 
